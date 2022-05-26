@@ -110,6 +110,21 @@ namespace MvcMovie.Models
 
                         Price = 7.99M
 
+                    },
+                    new Movie
+
+                    {
+
+                        Title = "When Harry Met Sally",
+
+                        ReleaseDate = DateTime.Parse("1989-1-11"),
+
+                        Genre = "Romantic Comedy",
+
+                        Rating = "R",
+
+                        Price = 7.99M
+
                     }
 
                 );
